@@ -2,13 +2,19 @@
 
 ## Include the following in this read me
 
-1. Who is this app for?
-1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
-1. The images you created
+1. Who is this app for? This app might be for anyone who wants to edit their pictures.
+1. What does it do, how does it work? It lets you take a picture and then draw on it to your desire.
+1. Add screenshots of the design view or actual app. ![image](https://github.com/user-attachments/assets/61ceee28-3172-476f-9fbc-fc42d32d545e)
+
+1. Blocks that you showcase your individual skill. ![image](https://github.com/user-attachments/assets/76891b87-dca6-49ae-b3ea-556a06866657)
+
+1. The images you created ![WIN_20240828_11_51_46_Pro](https://github.com/user-attachments/assets/217d87c6-053c-4d90-b0aa-9ee4a0151fb5)
+
 
    Add the MIT App Inventor File to the Repository
 
    Add the MIT Build File to the repository
    ![image](https://github.com/user-attachments/assets/be45fa0f-57c2-408c-97dc-2e61eebf5987)
+
+   THE BEFORE FEATURES:  ![image](https://github.com/user-attachments/assets/76891b87-dca6-49ae-b3ea-556a06866657)
+   THE AFTER FEATURES: (later)
