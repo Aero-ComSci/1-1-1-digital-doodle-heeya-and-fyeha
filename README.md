@@ -18,4 +18,4 @@
    ![image](https://github.com/user-attachments/assets/be45fa0f-57c2-408c-97dc-2e61eebf5987)
 
    THE BEFORE FEATURES:  ![image](https://github.com/user-attachments/assets/76891b87-dca6-49ae-b3ea-556a06866657)
-   THE AFTER FEATURES: (later)
+   THE AFTER FEATURES: ![image](https://github.com/user-attachments/assets/3cddfd70-baeb-43ea-94f3-19408d39b26d)
