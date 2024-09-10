@@ -5,7 +5,8 @@
 
 1. Who is this app for? This app might be for anyone who wants to edit their pictures.
 1. What does it do, how does it work? It lets you take a picture and then draw on it to your desire.
-1. Add screenshots of the design view or actual app. ![image](https://github.com/user-attachments/assets/f89d53c9-c968-40b9-ba69-dd8294659ccd)
+1. Add screenshots of the design view or actual app. ![image](https://github.com/user-attachments/assets/5c68699a-12bd-4d16-b989-97cc10a6f82d)
+
 
 
 1. Blocks that you showcase your individual skill. ![image](https://github.com/user-attachments/assets/76891b87-dca6-49ae-b3ea-556a06866657)
@@ -19,5 +20,6 @@
    ![image](https://github.com/user-attachments/assets/be45fa0f-57c2-408c-97dc-2e61eebf5987)
 
    THE BEFORE FEATURES:  ![image](https://github.com/user-attachments/assets/76891b87-dca6-49ae-b3ea-556a06866657)
-   THE AFTER FEATURES: ![image](https://github.com/user-attachments/assets/83261897-4d99-4861-804e-b6d7fb0e9039)
+   THE AFTER FEATURES:  ![image](https://github.com/user-attachments/assets/22086be2-d6c5-4d1c-981e-c5723fcedcd3)
+
 
